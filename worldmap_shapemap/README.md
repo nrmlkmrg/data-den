@@ -1,3 +1,5 @@
+# Custom worldmap shapefile for [Covid19 PowerBI project](https://github.com/lordnixus/portfolio-projects/blob/main/covid.pbix)
+
 ## Download the TopoJSON file
 Save the JSON file from Raw or follow the below steps to get the map on your own.
 
